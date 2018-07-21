@@ -63,9 +63,7 @@
 				C4E02E6E21032BC10007DE95 /* Controller */,
 				C4E02E6D21032BBB0007DE95 /* View */,
 				C4E02E6C21032BB50007DE95 /* Model */,
-				C4E02E562103287E0007DE95 /* AppDelegate.swift */,
 				C4E02E5D210328800007DE95 /* Assets.xcassets */,
-				C4E02E5F210328800007DE95 /* LaunchScreen.storyboard */,
 				C4E02E62210328800007DE95 /* Info.plist */,
 			);
 			path = FontsApp;
@@ -82,6 +80,7 @@
 		C4E02E6D21032BBB0007DE95 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				C4E02E5F210328800007DE95 /* LaunchScreen.storyboard */,
 				C4E02E5A2103287E0007DE95 /* Main.storyboard */,
 			);
 			path = View;
@@ -93,6 +92,7 @@
 				C4E02E6821032B310007DE95 /* MainScreenCollectionViewController.swift */,
 				C4E02E6A21032B950007DE95 /* FontItemCell.swift */,
 				C4E02E71210361450007DE95 /* DetailFontDescribtion.swift */,
+				C4E02E562103287E0007DE95 /* AppDelegate.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
